@@ -1,1 +1,1 @@
-# WPFProjects
+# StudentRegistrationWPF
